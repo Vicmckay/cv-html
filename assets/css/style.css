@@ -1,0 +1,155 @@
+header img {
+  height: 200px;
+  width: 200px;
+  padding-top: 20px;
+  padding-right: 20px;
+}
+
+h1 {
+  font-weight: bold;
+  font-size: 30px;
+  padding-bottom: 10px;
+}
+
+h2 {
+  font-size: 24px;
+  font-weight: bold;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-size: 22px;
+  font-weight: bold;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+h4 {
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+header .container {
+  background-color: rgb(63, 111, 234);
+  height: 300px;
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.trait {
+  background-color: rgb(23, 20, 226);
+  height: 2pt;
+  width: 900px;
+}
+
+main {
+  background-color: white;
+}
+
+main .container {
+  background-color: rgb(133, 189, 242);
+  height: 900px;
+  width: 1200px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.information {
+  padding-left: 20px;
+  padding-top: 20px;
+  flex: 1;
+}
+
+.about {
+  padding-right: 70px;
+  padding-top: 10px;
+  font-size: 20px;
+}
+
+.experience {
+  display: flex;
+  padding-right: 20px;
+}
+
+.expDescription {
+  width: 750px;
+}
+
+.description {
+  display: flex;
+  padding-right: 20px;
+}
+
+.formation {
+  display: flex;
+}
+
+.date {
+  width: 150px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  font-size: 20px;
+  padding-bottom: 10px;
+}
+
+.mainLeft {
+  width: 1000px;
+  padding-left: 20px;
+}
+
+.mainRight {
+  background-color: rgb(63, 111, 234);
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  width: 250px;
+  font-size: 20px;
+  padding-left: 10px;
+  font-weight: bold;
+  line-height: 25px;
+}
+
+.whiteBlock {
+  width: 900px;
+  height: 40px;
+  background-color: white;
+  margin-top: 10px;
+  padding-bottom: 20px;
+  margin-bottom: 20px;
+  padding-left: 10px;
+  display: flex;
+}
+
+.rightTitle {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 220px;
+  height: 40px;
+  background-color: white;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.contact {
+  background-color: rgb(133, 189, 242);
+  border-radius: 10px;
+  margin-right: 10px;
+  margin-top: 200px;
+  padding: 10px;
+}
+
+.logo {
+  margin-right: 100px;
+  padding-top: 10px;
+  padding-left: 20px;
+}
